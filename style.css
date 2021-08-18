@@ -1,0 +1,30 @@
+.container {
+  display:flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  margin: 32px;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 32px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.red {
+  color:red
+}
+
+.green {
+  color:green;
+}
+
+.orange {
+  color:orange;
+}
